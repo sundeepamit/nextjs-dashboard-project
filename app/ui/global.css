@@ -1,3 +1,4 @@
+/* use this file to add css rules to all routes in your application. */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
